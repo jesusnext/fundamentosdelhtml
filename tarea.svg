@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <defs>
+  <linearGradient id="svg_8">
+   <stop offset="0.158875" stop-color="#none"/>
+   <stop offset="0.615906" stop-opacity="0.992188" stop-color="#667574"/>
+   <stop offset="1" stop-opacity="0.996094" stop-color="#e6f2f1"/>
+   <stop offset="1" stop-opacity="0.996094" stop-color="#e6f2f1"/>
+  </linearGradient>
+  <linearGradient y2="0" x2="1" y1="0" x1="0" id="svg_13">
+   <stop offset="0" stop-opacity="0.996094" stop-color="#e6f2f1"/>
+   <stop offset="0.615906" stop-opacity="0.992188" stop-color="#667574"/>
+   <stop offset="1" stop-color="#none"/>
+   <stop offset="1" stop-opacity="0.996094" stop-color="#e6f2f1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <text fill="#000000" stroke-width="0" stroke-dasharray="5,2,2,2" stroke-linejoin="round" stroke-linecap="round" opacity="0.75" x="68" y="220" id="svg_10" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(46.67481994628906,0,0,3.6410748958587646,-2862.526606321335,-602.6602777987719) " stroke="#000000"/>
+  <rect stroke="#000000" id="svg_7" height="313.333333" width="630.666676" y="49.333333" x="6.666658" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5,2,2,2" stroke-width="5" fill="url(#svg_8)"/>
+  <polygon stroke-width="5" stroke="#000000" points="70.6666669845581,252.66293334960938 84.61764812469482,292.7981262207031 127.09958171844482,293.6638488769531 93.2398328781128,319.33447265625 105.54412364959717,360.00469970703125 70.6666669845581,335.7348327636719 35.78920650482178,360.00469970703125 48.09350109100342,319.33447265625 14.233751773834229,293.6638488769531 56.71568202972412,292.7981262207031 70.6666669845581,252.66293334960938 84.61764812469482,292.7981262207031 " strokeWidth="5" strokecolor="#000000" fill="url(#svg_8)" orient="point" r2="23.734831" r="59.337079" point="5" shape="star" id="svg_9" cy="412" cx="56"/>
+  <polygon stroke-width="5" stroke="#000000" points="164,62.65213966369629 178.42373657226562,104.14740943908691 222.34524536132812,105.04245948791504 187.33810424804688,131.58298683166504 200.05935668945312,173.6314182281494 164,148.5391025543213 127.94064331054688,173.6314182281494 140.66189575195312,131.58298683166504 105.65475463867188,105.04245948791504 149.57626342773438,104.14740943908691 164,62.65213966369629 178.42373657226562,104.14740943908691 " strokeWidth="5" strokecolor="#000000" fill="url(#svg_8)" orient="point" r2="24.53913" r="61.347824" point="5" shape="star" id="svg_11" cy="412" cx="60"/>
+  <polygon stroke-width="5" stroke="#000000" points="549.3333129882812,231.76447010040283 565.06298828125,277.01665210723877 612.9610595703125,277.9927568435669 574.784423828125,306.93620777130127 588.657470703125,352.79164600372314 549.3333129882812,325.42754077911377 510.00921630859375,352.79164600372314 523.8822021484375,306.93620777130127 485.70556640625,277.9927568435669 533.6036987304688,277.01665210723877 549.3333129882812,231.76447010040283 565.06298828125,277.01665210723877 " strokeWidth="5" strokecolor="#000000" fill="url(#svg_13)" orient="point" r2="26.760871" r="66.902177" point="5" shape="star" id="svg_12" cy="410.666667" cx="52"/>
+  <text stroke="#000000" transform="matrix(37.05716757317564,0,0,5.435470850704891,-14528.236302278807,-559.0828625783898) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_14" y="138.666667" x="402.666667" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">J</text>
+  <text stroke="#000000" transform="matrix(23.888060971087498,0,0,4.152072309365878,-4992.238516403193,-896.1725354968481) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_15" y="292" x="221.333333" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5,2,2,2" stroke-width="0" fill="#000000"/>
+  <text stroke="#000000" transform="matrix(21.908983913900357,0,0,3.734467741386095,-6039.7270385970005,-754.7751904614581) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_16" y="290.666667" x="289.333333" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5,2,2,2" stroke-width="0" fill="#000000">G</text>
+ </g>
+</svg>
